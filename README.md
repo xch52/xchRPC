@@ -1,0 +1,1 @@
+This is high-performance distributed RPC based on Spring, Netty and ZK, high-performance network communication based on Netty, object management and dynamic proxy generation based on Spring, and server node creation and monitoring based on ZooKeeper. Finally, a high-performance, lightweight distributed RPC framework is realized.
